@@ -1,0 +1,19 @@
+{
+  "name": "image-dom-object",
+  "version": "1.0.0",
+  "description": "Image DOM object for nodejs",
+  "main": "Image.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "image",
+    "size",
+    "dom"
+  ],
+  "author": "Stacy Jeptha",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^0.4.0"
+  }
+}
